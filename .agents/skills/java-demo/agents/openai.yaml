@@ -1,0 +1,7 @@
+interface:
+  display_name: "Java Demo"
+  short_description: "Unified Java backend engineering"
+  default_prompt: "Use $java-demo to build or improve this backend with stable APIs, secure data access, tests, and operational checks."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Higgsfield"
+  short_description: "Route Higgsfield slash commands and presets"
+  default_prompt: "Use $higgsfield to resolve my slash command or find a Higgsfield preset."
+policy:
+  allow_implicit_invocation: true

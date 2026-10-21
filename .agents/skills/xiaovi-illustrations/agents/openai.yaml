@@ -1,0 +1,4 @@
+interface:
+  display_name: "小vi配图"
+  short_description: "用小vi C2 Claude Coral 风格生成白底手绘正文配图"
+  default_prompt: "Use $xiaovi-illustrations 为这篇内容设计并生成一组小vi白底正文配图。"

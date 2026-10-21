@@ -1,0 +1,7 @@
+interface:
+  display_name: "Web Vue"
+  short_description: "Unified React/Vue frontend engineering"
+  default_prompt: "Use $web-vue to build or improve this frontend while reusing existing components and verifying the result."
+
+policy:
+  allow_implicit_invocation: true
